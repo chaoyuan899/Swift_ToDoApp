@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ToDoApp.Main.secondAction (ToDoApp.Main)(ObjectiveC.UILocalNotification) -&gt; ():Main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification.fireDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ToDoApp.AppDelegate.application (ToDoApp.AppDelegate)(ObjectiveC.UIApplication, handleActionWithIdentifier : Swift.Optional&lt;Swift.String&gt;, forLocalNotification : ObjectiveC.UILocalNotification, completionHandler : () -&gt; ()) -&gt; ():AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification.userInfo">
+            </PersistentString>
+            <PersistentString
+               value = "notification.fireDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ToDoApp.Main.didCompleted (ToDoApp.Main)(ToDoApp.Add) -&gt; ():Main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addObject.time.date">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ToDoApp.Main.secondAction (ToDoApp.Main)(ObjectiveC.NSNotification) -&gt; ():Main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notification.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
